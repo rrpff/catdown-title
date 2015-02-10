@@ -1,0 +1,14 @@
+{
+  "name": "catdown-title",
+  "version": "1.0.0",
+  "description": "Catdown plugin. Extracts the first `h1` element and emits a \"title\" event with its value on every change.",
+  "main": "index.js",
+  "keywords": [
+    "catdown",
+    "markdown",
+    "header",
+    "event"
+  ],
+  "license": "MIT",
+  "author": "Richard Foster <richard@rpf.me> (http://rpf.me/)"
+}
